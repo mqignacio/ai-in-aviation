@@ -1,2 +1,16 @@
-# ai-in-aviation
-This repository hosts a collection of Jupyter notebooks that demonstrate practical applications of artificial intelligence (AI) in the airline and aviation industry.
+# AI in Aviation
+
+A collection of Jupyter notebooks demonstrating practical applications of artificial intelligence (AI) in the airline and aviation industry. Each notebook is accompanied by a Medium article that explains the airline/aviation news and AI concepts.
+
+## Contents
+- [Network Optimization after Airline Mergers](network-optimization.ipynb)  
+  ✈️ An XGBoost implementation for rationalizing overlapping routes in the Korean Air-Asiana merger. 
+  📖 [Read the Medium article](https://medium.com/@mqignacio/korean-air-asiana-asias-mega-carrier-takes-flight-2198649fb5bc?source=friends_link&sk=e9afa5e4decf3ed9f0ce38db9ab28f91)
+
+## Contributing
+
+Contributions are welcome! Please feel free to submit issues or pull requests for improvements or new notebooks.
+
+## License
+
+This repository is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
