@@ -3,9 +3,14 @@
 A collection of Jupyter notebooks demonstrating practical applications of artificial intelligence (AI) in the airline and aviation industry. Each notebook is accompanied by a Medium article that explains the airline/aviation news and AI concepts.
 
 ## Contents
+
 - [Network Optimization after Airline Mergers](network-optimization.ipynb)  
   ✈️ An XGBoost implementation for rationalizing overlapping routes in the Korean Air-Asiana merger. 
   📖 [Read the Medium article](https://medium.com/@mqignacio/korean-air-asiana-asias-mega-carrier-takes-flight-2198649fb5bc?source=friends_link&sk=e9afa5e4decf3ed9f0ce38db9ab28f91)
+
+- [Fleet Assignment Optimization with Reinforcement Learning (RL)](fleet_optimization.ipynb)  
+  ✈️ We train a PPO agent to optimize fleet assignment (737-10 vs 787-10) under demand and crew constraints, demonstrated on a synthetic network inspired by Alaska/Hawaiian’s 2026 announcements. 
+  📖 [Read the Medium article](https://medium.com/@mqignacio/273db335f728?source=friends_link&sk=eaa02bd9b0f70768f1b115818934f4eb)
 
 ## Contributing
 
