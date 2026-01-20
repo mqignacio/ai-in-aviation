@@ -12,6 +12,10 @@ A collection of Jupyter notebooks demonstrating practical applications of artifi
   ✈️ We train a PPO agent to optimize fleet assignment (737-10 vs 787-10) under demand and crew constraints, demonstrated on a synthetic network inspired by Alaska/Hawaiian’s 2026 announcements. 
   📖 [Read the Medium article](https://medium.com/@mqignacio/273db335f728?source=friends_link&sk=eaa02bd9b0f70768f1b115818934f4eb)
 
+- 20 Jan 2026 [Probabilistic Risk Assessment of SAF Mandate Compliance with Bayesian Networks](notebooks/saf_risk.ipynb)  
+  ✈️ We implement a Bayesian Network using `pgmpy` to quantify the probability of meeting Thailand’s 2026 SAF blending mandate under uncertain feedstock, logistics, and policy conditions.
+  📖 [Read the Medium article](https://medium.com/@mqignacio/2352796e5c41?source=friends_link&sk=2dd0a66939d7f3987b400d785be87101)
+
 ## Contributing
 
 Contributions are welcome! Please feel free to submit issues or pull requests for improvements or new notebooks.
