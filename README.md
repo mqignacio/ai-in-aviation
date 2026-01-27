@@ -16,6 +16,10 @@ A collection of Jupyter notebooks demonstrating practical applications of artifi
   ✈️ We implement a Bayesian Network using `pgmpy` to quantify the probability of meeting Thailand’s 2026 SAF blending mandate under uncertain feedstock, logistics, and policy conditions.
   📖 [Read the Medium article](https://medium.com/@mqignacio/2352796e5c41?source=friends_link&sk=2dd0a66939d7f3987b400d785be87101)
 
+- 27 Jan 2026 [Real-Time Negotiation Sentiment Tracker: Porter Airlines Labor Crisis](notebooks/nego_sentiment.ipynb)
+  ✈️ We build a local LLM pipeline to monitor Porter Airlines labor negotiations, converting news articles into structured sentiment data for a strike risk timeline.
+  📖 [Read the Medium article](https://medium.com/@mqignacio/2a61f98c6bd6?source=friends_link&sk=92564ad97872ca65f6f203256297df13)
+
 ## Contributing
 
 Contributions are welcome! Please feel free to submit issues or pull requests for improvements or new notebooks.
