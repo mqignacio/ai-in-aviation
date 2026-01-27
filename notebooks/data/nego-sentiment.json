@@ -1,0 +1,122 @@
+{
+  "metadata": {
+    "description": "Synthetic news corpus for sentiment analysis demonstration",
+    "disclaimer": "All articles are synthetic and hypothetical, created for educational purposes only.",
+    "topic": "Porter Airlines Flight Dispatcher Labor Negotiations (January 2026)",
+    "date_range": "2026-01-12 to 2026-01-24"
+  },
+  "articles": [
+    {
+      "id": 1,
+      "date": "2026-01-12",
+      "source": "Canadian Aviation News",
+      "headline": "Porter Flight Dispatchers Vote Unanimously for Strike Action",
+      "speaker_type": "union",
+      "content": "The Canadian Airline Dispatchers Association announced today that all 36 of Porter Airlines' flight dispatchers have voted 100% in favor of strike action. CALDA's incoming national president Mark Yezovich stated that negotiations have produced zero meaningful progress in over 14 months. The union represents workers who share co-authority with pilots under Canadian law, meaning flights cannot operate without their sign-off."
+    },
+    {
+      "id": 2,
+      "date": "2026-01-13",
+      "source": "Toronto Business Journal",
+      "headline": "Porter Airlines Downplays Strike Threat, Says Fair Proposals Made",
+      "speaker_type": "management",
+      "content": "Porter Airlines responded to the strike vote by stating there is no risk of immediate labor disruption. A company spokesperson said Porter has made fair and meaningful proposals to CALDA on all key issues. The airline emphasized that reaching a first collective agreement takes significant effort from both parties and expressed confidence that a resolution can be reached before any work stoppage occurs."
+    },
+    {
+      "id": 3,
+      "date": "2026-01-14",
+      "source": "National Post Aviation",
+      "headline": "Union Accuses Porter of Training Replacement Workers",
+      "speaker_type": "union",
+      "content": "CALDA has accused Porter Airlines of training non-union personnel as potential replacement dispatchers in the event of a strike. The union called the move unsafe, irresponsible, and disrespectful to both employees and the traveling public. Yezovich warned that flight dispatch is a safety-critical role requiring extensive training and certification, and that replacement workers would pose unacceptable risks to aviation safety."
+    },
+    {
+      "id": 4,
+      "date": "2026-01-15",
+      "source": "Globe and Mail",
+      "headline": "Cooling-Off Period Begins as Porter Talks Remain Stalled",
+      "speaker_type": "neutral",
+      "content": "The 21-day cooling-off period mandated by federal law has begun, with the legal strike window set to open on January 20. Industry analysts note that Porter faces a particularly challenging situation, operating exclusively from Billy Bishop Toronto City Airport where passengers have limited alternative options. Both parties have declined to comment on whether additional negotiation sessions are planned."
+    },
+    {
+      "id": 5,
+      "date": "2026-01-16",
+      "source": "Aviation Weekly Canada",
+      "headline": "Porter Offers New Contract Terms, Union Skeptical",
+      "speaker_type": "management",
+      "content": "Porter Airlines announced it has put forward an improved contract offer addressing key concerns raised by dispatchers. The proposal includes modest wage increases and adjustments to scheduling provisions. Management expressed hope that the new terms would bring CALDA back to the negotiating table. However, union representatives have not yet responded publicly to the offer."
+    },
+    {
+      "id": 6,
+      "date": "2026-01-17",
+      "source": "Canadian Labour News",
+      "headline": "CALDA Rejects Latest Porter Offer, Calls It Insulting",
+      "speaker_type": "union",
+      "content": "The Canadian Airline Dispatchers Association has rejected Porter's latest contract proposal, describing it as insulting and not a serious attempt at negotiation. Union officials stated that the wage increases offered fail to keep pace with inflation and do nothing to address workload concerns. CALDA confirmed it has not met with the company since the strike vote results were announced and sees no reason to schedule further talks based on the current offer."
+    },
+    {
+      "id": 7,
+      "date": "2026-01-18",
+      "source": "Toronto Star",
+      "headline": "Federal Mediator Assigned to Porter Dispatcher Dispute",
+      "speaker_type": "neutral",
+      "content": "The Federal Mediation and Conciliation Service has assigned a mediator to the Porter-CALDA dispute as the strike deadline approaches. Both parties confirmed they have accepted the mediator's involvement, though neither expressed optimism about the outcome. The mediator will meet separately with union and management representatives before attempting to bring them together for direct negotiations."
+    },
+    {
+      "id": 8,
+      "date": "2026-01-19",
+      "source": "CBC News",
+      "headline": "Mediated Talks Yield No Progress, Strike Appears Imminent",
+      "speaker_type": "neutral",
+      "content": "A full day of mediated negotiations between Porter Airlines and flight dispatchers ended without agreement. Sources close to the talks described the atmosphere as tense, with significant gaps remaining on wages and work rules. The strike window opens at 12:01 AM Eastern Time tomorrow. Passengers with Porter bookings have been advised to monitor the situation and consider alternative arrangements."
+    },
+    {
+      "id": 9,
+      "date": "2026-01-20",
+      "source": "Global News",
+      "headline": "Porter Dispatchers Begin Strike, All Flights Grounded",
+      "speaker_type": "neutral",
+      "content": "Porter Airlines flight dispatchers walked off the job at midnight, grounding all of the carrier's operations. The strike affects approximately 140 daily flights to destinations across Canada and the United States. Porter has advised passengers that all flights are cancelled until further notice. CALDA stated that members remain unified and prepared to stay on the picket line as long as necessary to achieve a fair contract."
+    },
+    {
+      "id": 10,
+      "date": "2026-01-21",
+      "source": "Financial Post",
+      "headline": "Porter Losing Millions Daily as Strike Continues",
+      "speaker_type": "neutral",
+      "content": "Aviation industry analysts estimate Porter Airlines is losing between two and three million dollars per day as the dispatcher strike enters its second day. The airline has declined to comment on financial impacts but confirmed it is offering full refunds to affected passengers. With no negotiations scheduled, the timeline for resolution remains unclear. Some industry observers suggest the strike could last weeks if neither side moves from current positions."
+    },
+    {
+      "id": 11,
+      "date": "2026-01-22",
+      "source": "National Post",
+      "headline": "Government Faces Pressure to Intervene in Porter Strike",
+      "speaker_type": "neutral",
+      "content": "Federal Transport Minister has acknowledged receiving calls from business groups and passengers requesting government intervention to end the Porter strike. However, officials noted that recent attempts to mandate settlements have faced resistance, with Air Canada flight attendants rejecting an arbitrated deal just three months ago. The minister stated the government is monitoring the situation but hopes the parties can reach a voluntary agreement."
+    },
+    {
+      "id": 12,
+      "date": "2026-01-23",
+      "source": "Aviation Daily",
+      "headline": "Porter and CALDA Agree to Resume Talks",
+      "speaker_type": "neutral",
+      "content": "After four days of strike action, Porter Airlines and the Canadian Airline Dispatchers Association have agreed to resume negotiations with federal mediator assistance. Both parties released brief statements confirming the talks but provided no details on timing or agenda. Industry observers cautioned that agreement to talk does not guarantee settlement, noting that fundamental differences on compensation remain unresolved."
+    },
+    {
+      "id": 13,
+      "date": "2026-01-23",
+      "source": "Toronto Sun",
+      "headline": "Porter CEO Acknowledges Need to Address Dispatcher Concerns",
+      "speaker_type": "management",
+      "content": "In his first public comments since the strike began, Porter's CEO acknowledged that the company needs to do more to address dispatcher concerns about workload and career development. While stopping short of committing to specific terms, the executive stated that Porter values its dispatchers and recognizes the critical role they play in safe operations. Union officials said they would evaluate management's sincerity based on concrete proposals rather than public statements."
+    },
+    {
+      "id": 14,
+      "date": "2026-01-24",
+      "source": "Canadian Press",
+      "headline": "Tentative Agreement Reached in Porter Dispatcher Dispute",
+      "speaker_type": "neutral",
+      "content": "Porter Airlines and CALDA have reached a tentative agreement to end the dispatcher strike, sources close to the negotiations confirmed. Details of the deal have not been released pending ratification by union members. If approved, flights could resume within 24 to 48 hours. Both parties expressed relief that an agreement was reached, though the union cautioned that members will carefully review the terms before voting."
+    }
+  ]
+}
