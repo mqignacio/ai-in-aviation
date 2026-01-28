@@ -20,6 +20,10 @@ A collection of Jupyter notebooks demonstrating practical applications of artifi
   ✈️ We build a local LLM pipeline to monitor Porter Airlines labor negotiations, converting news articles into structured sentiment data for a strike risk timeline.
   📖 [Read the Medium article](https://medium.com/@mqignacio/2a61f98c6bd6?source=friends_link&sk=92564ad97872ca65f6f203256297df13)
 
+- 29 Jan 2026 [Flight Delay Cascade Prediction Using Temporal Convolutional Networks](notebooks/delay_cascade.ipynb)
+  ✈️ We implement a Temporal Convolutional Network (TCN) to model and predict the 6-hour propagation of flight delays from connection hubs to spoke airports using synthetic data.
+  📖 [Read the Medium article](https://medium.com/@mqignacio/149e476425c0?source=friends_link&sk=210d49e4fe5e4681f416d7eb8372dc90)
+
 ## Contributing
 
 Contributions are welcome! Please feel free to submit issues or pull requests for improvements or new notebooks.
