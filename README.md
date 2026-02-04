@@ -24,6 +24,10 @@ A collection of Jupyter notebooks demonstrating practical applications of artifi
   ✈️ We implement a Temporal Convolutional Network (TCN) to model and predict the 6-hour propagation of flight delays from connection hubs to spoke airports using synthetic data.
   📖 [Read the Medium article](https://medium.com/@mqignacio/149e476425c0?source=friends_link&sk=210d49e4fe5e4681f416d7eb8372dc90)
 
+- 04 Feb 2026 [Autonomous Ground Handling at Changi Airport with Multi-Agent RL](notebooks/autonomous_tractor.ipynb)
+  ✈️ We allow autonomous baggage tractors to learn safety and coordination rules using multi-agent Q-learning in a simulation of Changi's airside operations.
+  📖 [Read the Medium article](https://medium.com/@mqignacio/8d707bdf1394?source=friends_link&sk=83f13d82e717c1c03f7f9b284a78243a)
+
 ## Contributing
 
 Contributions are welcome! Please feel free to submit issues or pull requests for improvements or new notebooks.
