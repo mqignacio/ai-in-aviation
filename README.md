@@ -28,6 +28,10 @@ A collection of Jupyter notebooks demonstrating practical applications of artifi
   ✈️ We allow autonomous baggage tractors to learn safety and coordination rules using multi-agent Q-learning in a simulation of Changi's airside operations.
   📖 [Read the Medium article](https://medium.com/@mqignacio/8d707bdf1394?source=friends_link&sk=83f13d82e717c1c03f7f9b284a78243a)
 
+- 09 Feb 2026 [Agentic AI for Airline Hub Disruption Management](notebooks/ops_control.ipynb)
+  ✈️ We build a local multi-agent system (CrewAI + Ollama) that queries a read-only hub ops SQLite snapshot to draft a storm disruption action plan with crew duty-limit checks.
+  📖 [Read the Medium article](https://medium.com/@mqignacio/033584c256af?source=friends_link&sk=efddfd3428b4caa71c49a8315cb96868)
+
 ## Contributing
 
 Contributions are welcome! Please feel free to submit issues or pull requests for improvements or new notebooks.
