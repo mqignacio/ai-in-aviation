@@ -32,6 +32,10 @@ A collection of Jupyter notebooks demonstrating practical applications of artifi
   ✈️ We build a local multi-agent system (CrewAI + Ollama) that queries a read-only hub ops SQLite snapshot to draft a storm disruption action plan with crew duty-limit checks.
   📖 [Read the Medium article](https://medium.com/@mqignacio/033584c256af?source=friends_link&sk=efddfd3428b4caa71c49a8315cb96868)
 
+- 12 Feb 2026 [Baggage X-ray Anomaly Detection with Convolutional Autoencoders](notebooks/ops_control.ipynb)
+  ✈️ We build a lightweight PyTorch convolutional autoencoder on synthetic baggage X-ray images to learn normal patterns and flag anomalies via reconstruction error—mirroring DXB’s AI-assisted hand-luggage screening.
+  📖 [Read the Medium article](https://medium.com/@mqignacio/95b6f454c209?source=friends_link&sk=3ddca1b27cfc857c32aa09973ee33703)
+
 ## Contributing
 
 Contributions are welcome! Please feel free to submit issues or pull requests for improvements or new notebooks.
