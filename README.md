@@ -36,6 +36,10 @@ A collection of Jupyter notebooks demonstrating practical applications of artifi
   ✈️ We build a lightweight PyTorch convolutional autoencoder on synthetic baggage X-ray images to learn normal patterns and flag anomalies via reconstruction error—mirroring DXB’s AI-assisted hand-luggage screening.
   📖 [Read the Medium article](https://medium.com/@mqignacio/95b6f454c209?source=friends_link&sk=3ddca1b27cfc857c32aa09973ee33703)
 
+- 18 Feb 2026 [AI Incident Response Agent: SunExpress 737 Gear Collapse at Antalya](notebooks/incident_mgmt.ipynb)
+  ✈️ We implement a local AI agent using Ollama and LangChain to automate incident response checklists, draft communications, and log actions for a taxiway gear collapse scenario.
+  📖 [Read the Medium article](https://medium.com/@mqignacio/7015d4e097be?source=friends_link&sk=8f08d2d03a1d5a6c007026c0f9b0c721)
+
 ## Contributing
 
 Contributions are welcome! Please feel free to submit issues or pull requests for improvements or new notebooks.
