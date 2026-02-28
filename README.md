@@ -40,6 +40,10 @@ A collection of Jupyter notebooks demonstrating practical applications of artifi
   ✈️ We implement a local AI agent using Ollama and LangChain to automate incident response checklists, draft communications, and log actions for a taxiway gear collapse scenario.
   📖 [Read the Medium article](https://medium.com/@mqignacio/7015d4e097be?source=friends_link&sk=8f08d2d03a1d5a6c007026c0f9b0c721)
 
+- 28 Feb 2026 [Route Vulnerability Clustering: Which Canada-U.S. Air Routes Break First?](notebooks/route_clustering.ipynb)
+  ✈️ We run K-Means and hierarchical clustering with UMAP on a small local Canada-U.S. route dataset, then overlay WestJet’s Summer 2026 cancellations to surface fragile route archetypes.
+  📖 [Read the Medium article](https://medium.com/@mqignacio/38a09f0f9f52?source=friends_link&sk=3f368e19e75c442d02f34367e5916ffb)
+
 ## Contributing
 
 Contributions are welcome! Please feel free to submit issues or pull requests for improvements or new notebooks.
