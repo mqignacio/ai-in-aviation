@@ -4,6 +4,10 @@ A collection of Jupyter notebooks demonstrating practical applications of artifi
 
 ## Contents
 
+- 10 Mar 2026 [Airspace Closure Impact Forecasting with a Lightweight LSTM](notebooks/airspace_closure.ipynb)
+  ✈️ We train a small 2-layer LSTM in PyTorch to forecast the next 6 hours of UAE/Gulf hub flight cancellation rates from the prior 24 hours using synthetic airspace-closure recovery episodes.
+  📖 [Read the Medium article](https://medium.com/@mqignacio/d6431e78d018?source=friends_link&sk=bdd9ff1dadd2da7a01239f28beb98b21)
+
 - 05 Mar 2026 [Korean Air's AI-Powered Drone Swarms: Multi-Agent Reinforcement Learning for MRO Inspection](notebooks/drone_inspection.ipynb)
   ✈️ We train a 5-drone swarm with tabular multi-agent Q-learning to cover an aircraft inspection grid for MRO, reducing collisions and wasted steps.
   📖 [Read the Medium article](https://medium.com/@mqignacio/b0698d844e90?source=friends_link&sk=6334878e3b635a8e04ebc23a31890a0c)
